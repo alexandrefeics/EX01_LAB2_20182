@@ -1,0 +1,9 @@
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\bin\Debug\netcoreapp2.1\SGCB.ApplicationCore.deps.json
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\bin\Debug\netcoreapp2.1\SGCB.ApplicationCore.dll
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\bin\Debug\netcoreapp2.1\SGCB.ApplicationCore.pdb
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.AssemblyInfo.cs
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.dll
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.pdb
+C:\Users\bruni\source\repos\SGCB\SGCB.ApplicatuinCore\obj\Debug\netcoreapp2.1\SGCB.ApplicationCore.csprojAssemblyReference.cache

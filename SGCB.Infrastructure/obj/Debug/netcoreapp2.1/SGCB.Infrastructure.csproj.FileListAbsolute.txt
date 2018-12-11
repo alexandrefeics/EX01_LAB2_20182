@@ -1,0 +1,14 @@
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.Infrastructure.deps.json
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.Infrastructure.dll
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.AssemblyInfo.cs
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.csprojAssemblyReference.cache
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.Infrastructure.runtimeconfig.json
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.Infrastructure.runtimeconfig.dev.json
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.Infrastructure.pdb
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.ApplicationCore.dll
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\bin\Debug\netcoreapp2.1\SGCB.ApplicationCore.pdb
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.csproj.CopyComplete
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.dll
+C:\Users\bruni\source\repos\SGCB\SGCB.Infrastructure\obj\Debug\netcoreapp2.1\SGCB.Infrastructure.pdb
